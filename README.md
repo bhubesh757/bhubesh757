@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhubesh_sr" target="blank"><img src="https://img.shields.io/twitter/follow/bhubesh_sr?logo=twitter&style=for-the-badge" alt="bhubesh_sr" /></a> </p>
 
-## checkout PortFolio  😜! 
 
-<table>
-  <tr>
-    <td align="center"><a href="https://myportfolio-88603.web.app/"><img src="https://user-images.githubusercontent.com/55022929/105964746-a1c8dd80-60a8-11eb-9b6d-32e6b2a13dce.jpg" width="100px;" alt=""/><br /><sub><b>Bhubesh SR😍</b></sub></a></td>
-  </tr>
-</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bhubesh757" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bhubesh757" height="30" width="40" /></a>
